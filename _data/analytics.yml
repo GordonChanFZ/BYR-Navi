@@ -1,9 +1,10 @@
 google:
-  id: UA-100531691-1
+  id: G-RLFT7ZS5XN
 
 matomo:
-  url: https://vps.irockbunny.com/analytics/
+  url: https://analysis.ai-note.xyz/
   domains:
-  - "*.byr-navi.com"
+  - "my-navi.pages.dev"
   site_id: 1
-  token: b20d2b5002a1241da41853f33eccccdd
+  token: 7f684dc0712b9fdcf1e688423cd49d63
+
